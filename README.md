@@ -7,8 +7,8 @@ Red Hat Enterprise Linux Tutorials &amp; Certification
 <strong> Website Page-: www.lnwtutorials.com</strong><br>
 <strong> Email-: lnwtutorials@gmail.com</strong><br>
 
-## Topics For Learning &amp; Matarials
-<hr><strong>Part-1</strong>
+## Few Topics for Learning &amp; Study Matarials
+<strong>Part-1</strong>
 <br>==> A. Overview of Linux<br>
 	* What is kernal & Its function
 	* Linux release &  vendors
