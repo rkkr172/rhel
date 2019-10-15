@@ -2,10 +2,10 @@
 Red Hat Enterprise Linux Tutorials &amp; Certification
 
 # LNW Tutorials
- YouTube Channel : https://www.youtube.com/channel/UCpFKJ2b-effMVKYOgAXyYFA
-<strong> Facebook Channel -: https://www.facebook.com/lnwtutorial/ </strong>
-<strong> Website Page-: www.lnwtutorials.com</strong>
-<strong> Email-: lnwtutorials@gmail.com</strong>
+<strong>YouTube Channel : https://www.youtube.com/channel/UCpFKJ2b-effMVKYOgAXyYFA </strong> <br>
+<strong> Facebook Channel -: https://www.facebook.com/lnwtutorial/ </strong><br>
+<strong> Website Page-: www.lnwtutorials.com</strong><br>
+<strong> Email-: lnwtutorials@gmail.com</strong><br>
 
 ## Topics For Learning &amp; Matarials
 <hr><strong>Part-1</strong>
